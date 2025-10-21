@@ -25,7 +25,8 @@ remove("Dragonsball")
 ```
 
 ## Output
-<img width="363" height="158" alt="image" src="https://github.com/user-attachments/assets/39603137-7dd3-4d2f-aa5e-74eb1cc36454" />
+<img width="1685" height="292" alt="Screenshot 2025-10-21 095504" src="https://github.com/user-attachments/assets/bd80c087-9dc0-43a8-b42c-486a913a2328" />
+
 
 
 ## Result
