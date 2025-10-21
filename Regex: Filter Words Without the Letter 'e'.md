@@ -25,7 +25,8 @@ print("Words without 'e':", l1)
 
 ```
 ## Output
-<img width="399" height="127" alt="image" src="https://github.com/user-attachments/assets/6ebd40d5-ae85-48be-970a-edc6cb6f1d22" />
+<img width="1690" height="333" alt="image" src="https://github.com/user-attachments/assets/030268d5-5612-4a82-aed1-913b320d2a50" />
+
 
 
 ## Result
