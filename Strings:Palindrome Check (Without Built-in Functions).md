@@ -22,7 +22,8 @@ else:
     print("The entered string is not palindrome")
 ```
 ## Output
-<img width="397" height="157" alt="image" src="https://github.com/user-attachments/assets/8effb00b-560e-4415-aa1b-35b6e9fb1698" />
+<img width="1632" height="336" alt="image" src="https://github.com/user-attachments/assets/f1474906-3521-463e-b854-e5a38dbf3985" />
+
 
 
 ## Result
