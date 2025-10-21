@@ -23,9 +23,11 @@ for i in items:
         l1.append(i)
 print("Words without 'e':", l1)
 
+
 ```
 ## Output
-<img width="1690" height="333" alt="image" src="https://github.com/user-attachments/assets/030268d5-5612-4a82-aed1-913b320d2a50" />
+<img width="532" height="161" alt="502986279-c08274ea-0b28-4f51-afa4-0481f3347877" src="https://github.com/user-attachments/assets/cc4ca204-de35-4b01-aab8-afb30f0b3ff1" />
+
 
 
 
